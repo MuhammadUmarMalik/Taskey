@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/FontsFree-Net-ProductSans-Bold.ttf",
+      "sha1": "aef01f4ff0c1d4673bffafec90bad5ba408d5a74"
+    },
+    {
+      "path": "assets/fonts/PollerOne-Regular.ttf",
+      "sha1": "5dcf7d835532f3cd10318d54180292e1ba019bc7"
+    }
+  ]
+}
